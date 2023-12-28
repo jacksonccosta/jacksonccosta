@@ -1,13 +1,13 @@
 ### Hello World 🌎 | Eu sou o Jackson Costa 👨🏾‍💻
 
-- 🤵🏾 Atualmente trabalho com Análise e Desenvolvimento de Sistemas<br>
-- 👨🏾‍🏫 Atualmente estudo desenvolvimento Web e Cloud Computing<br>
+- 🤵🏾 Atualmente trabalho com Desenvolvimento de Softwarer como Desenvolvedor Sênior e também atuando como Tech Lead<br>
+- 👨🏾‍🏫 Atualmente estudo desenvolvimento Web, Cloud Computing e tudo que tange o mundo de desenvolvimento .NET<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonccosta&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonccosta&layout=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-<h2>Tecnologias que domino e estudo:</h2>
+<h2>Tecnologias que domino/estudo:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="C-Sharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
