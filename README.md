@@ -1,7 +1,7 @@
 ### Hello World 🌎 | Eu sou o Jackson Costa 👨🏾‍💻
 
 - 🤵🏾 Atualmente trabalho com Desenvolvimento de Softwarer como Desenvolvedor Sênior e também atuando como Tech Lead<br>
-- 👨🏾‍🏫 Atualmente estudo desenvolvimento Web, Cloud Computing e tudo que tange o mundo de desenvolvimento .NET<br>
+- 👨🏾‍🏫 Estudando Arquitetura de Software .NET com Azure em uma Pós-Graduação na FIAP<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonccosta&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonccosta&layout=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
