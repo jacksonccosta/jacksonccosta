@@ -1,10 +1,9 @@
 ### Hello World 🌎 | Eu sou o Jackson Costa 👨🏾‍💻
 
 - 🤵🏾 Atualmente trabalho com Desenvolvimento de Softwarer como Desenvolvedor Sênior e também atuando como Tech Lead<br>
-- 👨🏾‍🏫 Estudando Arquitetura de Software .NET com Azure em uma Pós-Graduação na FIAP<br>
+- 👨🏾‍🏫 Bacharel em Sistemas de Informação, Pós Graduado em Arquitetura de Software .NET com Azure pela FIAP e cursando MBA em Engenharia de Software na PUC-RIO<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonccosta&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonccosta&layout=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 <h2>Tecnologias que domino/estudo:</h2>
@@ -14,6 +13,7 @@
   <img align="center" alt="Vue-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Dotnet" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt="Dotnet-Core" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Dotnet-Core" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Type-Script" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"">
